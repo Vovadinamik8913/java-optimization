@@ -1,4 +1,3 @@
-package nsu.abramenko;
 
 import java.util.ArrayList;
 import java.util.Random;
